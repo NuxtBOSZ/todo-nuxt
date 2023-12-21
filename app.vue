@@ -281,6 +281,7 @@ async function noDeleteTaskSelectedRows() {
   await refresh();
 }
 
+refresh();
 </script>
 
 <template>
